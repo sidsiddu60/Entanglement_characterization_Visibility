@@ -1,0 +1,4 @@
+#time in s	Single 0(/s)	Single 2(/s)	Coincidence 02(/s)	
+1	10000	12000	50	
+2	11111	13000	50	
+
